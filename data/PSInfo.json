@@ -70,14 +70,6 @@
     "videoOverview": "https://www.youtube.com/watch?v=rSOqIR3lzBk",
     "devDocumentation": "https://developers.google.com/privacy-sandbox/3pcd/fedcm"
   },
-  "bounce-tracking": {
-    "name": "Bounce Tracking Mitigation",
-    "description": "PSBounceTracking",
-    "proposal": "https://github.com/privacycg/nav-tracking-mitigations",
-    "publicDiscussion": "https://github.com/privacycg/nav-tracking-mitigations/issues",
-    "videoOverview": "",
-    "devDocumentation": "https://developers.google.com/privacy-sandbox/protections/bounce-tracking-mitigations"
-  },
   "user-agent-reduction": {
     "name": "User Agent Reduction",
     "description": "PSUserAgentReduction",
